@@ -53,3 +53,7 @@ After Gulp has been installed, follow the steps below to contribute.
 	5 - Submit a pull request
   <hr>
 Do you need a template with more features and functionalities? Check out the premium version of Star Admin 2! Visit <a href="https://www.bootstrapdash.com" target="_blank">https://www.bootstrapdash.com</a> for more admin templates.
+
+---
+
+> **Created by Antono**
