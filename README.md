@@ -1,2 +1,26 @@
-Last updated: 2026-08-31 22:00:00 WIB
-Last updated: 2026-09-01 02:06:22 WIB
+# star-admin2-free-admin-template
+
+
+
+## 📋 Overview
+
+This repository contains **1752 files** and is built with the following technologies:
+
+Not detected
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Not detected
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-01 02:52:33 WIB*
